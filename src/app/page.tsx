@@ -188,8 +188,8 @@ export default function Tienda() {
             <a href="#inicio" className="flex items-center gap-2 sm:gap-3">
               <img 
                 src="/logo.png" 
-                alt="Dulce Delicia Logo" 
-                className={`w-10 h-10 sm:w-12 sm:h-12 lg:w-14 lg:h-14 rounded-full object-cover shadow-md transition-all duration-300 ${
+                alt="DULCEMON Logo" 
+                className={`w-14 h-14 sm:w-16 sm:h-16 lg:w-20 lg:h-20 rounded-full object-cover shadow-lg transition-all duration-300 ${
                   scrolled ? 'ring-2 ring-amber-200' : 'ring-2 ring-white/30'
                 }`}
               />
@@ -197,12 +197,12 @@ export default function Tienda() {
                 <h1 className={`text-lg sm:text-xl lg:text-2xl font-bold leading-tight transition-colors ${
                   scrolled ? 'text-amber-600' : 'text-white'
                 }`}>
-                  Dulce Delicia
+                  DULCEMON
                 </h1>
                 <p className={`text-[10px] sm:text-xs font-medium tracking-wide transition-colors ${
                   scrolled ? 'text-gray-500' : 'text-white/90'
                 }`}>
-                  ✨ Repostería Artesanal ✨
+                  ✨ ENDULZATE LA VIDA ✨
                 </p>
               </div>
             </a>
@@ -448,7 +448,7 @@ export default function Tienda() {
               <div className="flex items-center justify-center lg:justify-start gap-3 mb-4 sm:mb-6">
                 <img 
                   src="/logo.png" 
-                  alt="Dulce Delicia Logo" 
+                  alt="DULCEMON Logo" 
                   className="w-12 h-12 sm:w-14 sm:h-14 rounded-full object-cover shadow-lg ring-2 ring-amber-400/30"
                 />
                 <div>
@@ -459,7 +459,7 @@ export default function Tienda() {
                 </div>
               </div>
               <p className="text-gray-600 text-sm sm:text-base lg:text-lg leading-relaxed mb-4 sm:mb-6">
-                <strong>Dulce Delicia</strong> nació en 2018 de la pasión de una familia por la repostería tradicional. Lo que empezó como un pequeño negocio casero, hoy es una panadería artesanal reconocida por la calidad excepcional de sus productos.
+                <strong>DULCEMON</strong> nació en 2018 de la pasión de una familia por la repostería tradicional. Lo que empezó como un pequeño negocio casero, hoy es una panadería artesanal reconocida por la calidad excepcional de sus productos.
               </p>
               <p className="text-gray-600 text-sm sm:text-base lg:text-lg leading-relaxed mb-4 sm:mb-6 hidden sm:block">
                 Utilizamos únicamente ingredientes de primera calidad: huevos frescos de granja, mantequilla premium, chocolate belga y frutos secos seleccionados.
@@ -725,15 +725,15 @@ export default function Tienda() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-6 sm:gap-8 mb-6 sm:mb-8">
             <div className="col-span-2 lg:col-span-1">
-              <div className="flex items-center gap-3 mb-4 sm:mb-6">
+              <div className="flex items-center gap-4 mb-4 sm:mb-6">
                 <img 
                   src="/logo.png" 
-                  alt="Dulce Delicia Logo" 
-                  className="w-14 h-14 sm:w-16 sm:h-16 rounded-full object-cover shadow-lg ring-2 ring-amber-400/30"
+                  alt="DULCEMON Logo" 
+                  className="w-16 h-16 sm:w-20 sm:h-20 rounded-full object-cover shadow-lg ring-2 ring-amber-400/30"
                 />
                 <div className="flex flex-col">
-                  <span className="text-xl sm:text-2xl font-bold">Dulce Delicia</span>
-                  <span className="text-amber-400 text-xs sm:text-sm font-medium">✨ Repostería Artesanal ✨</span>
+                  <span className="text-xl sm:text-2xl font-bold">DULCEMON</span>
+                  <span className="text-amber-400 text-xs sm:text-sm font-medium">✨ ENDULZATE LA VIDA ✨</span>
                 </div>
               </div>
               <p className="text-gray-400 text-xs sm:text-sm leading-relaxed mb-4">
@@ -787,12 +787,12 @@ export default function Tienda() {
             <div className="flex items-center justify-center gap-2 mb-2">
               <img 
                 src="/logo.png" 
-                alt="Dulce Delicia" 
-                className="w-6 h-6 rounded-full object-cover"
+                alt="DULCEMON" 
+                className="w-8 h-8 rounded-full object-cover"
               />
-              <span className="text-gray-300 font-semibold">Dulce Delicia</span>
+              <span className="text-gray-300 font-semibold">DULCEMON</span>
             </div>
-            <p className="text-gray-500 text-xs sm:text-sm">© 2024 Dulce Delicia - Repostería Artesanal. Todos los derechos reservados.</p>
+            <p className="text-gray-500 text-xs sm:text-sm">© 2024 DULCEMON - ENDULZATE LA VIDA. Todos los derechos reservados.</p>
           </div>
         </div>
       </footer>
